@@ -9,4 +9,4 @@ class Singleton:
 # Приклад використання
 singleton1 = Singleton()
 singleton2 = Singleton()
-print(singleton1 is singleton2)  # True
+print(singleton1 is singleton2)  # Truee
